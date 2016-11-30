@@ -1,2 +1,2 @@
 # piano-firmware
-Allo Piano HiFi DAC DSP firmware files
+Allo Piano HiFi DAC 2.1 DSP firmware files
